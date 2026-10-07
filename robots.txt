@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smartdesignhub18-web.github.io/bigula-farm/sitemap.xml
